@@ -2,11 +2,10 @@
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am currently transferring my projects to aadikar.com.np and building github page. It will be online within a week.
-I am someone with a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
 
-My journey across various disciplines has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to develop skills academically, and professionally.
+to be updated
 
 ## Google CyberSecurity
 
