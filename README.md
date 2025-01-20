@@ -8,11 +8,11 @@ I am someone with a profound interest in technology and a dedication to solving 
 
 My journey across various disciplines has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to develop skills academically, and professionally.
 
-## Skills
+## Google CyberSecurity
 
-| Skill                                         | Associated Project         |
+| Modules                                       | Verification Links         |
 |-----------------------------------------------|----------------------------|
-| in progress          | <a href="https://">in progress</a>|
+| Foundations of Cybersecurity          | <a href="https://coursera.org/share/069a7fabf809aa481ac5f3f9423582aa">Click to Verify !</a>|
 | in progress          | <a href="https://">in progress</a>|
 | in progress          | <a href="https://">in progress</a>|
 | in progress          | <a href="https://">in progress</a>|
