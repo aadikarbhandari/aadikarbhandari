@@ -18,7 +18,7 @@ to be updated
 | in progress          | <a href="https://">in progress</a>|
 | in progress          | <a href="https://">in progress</a>|
 
-## Tools 
+## Tools (this section is template only, to be edited)
 
 ### Network in progress  
 <div>
