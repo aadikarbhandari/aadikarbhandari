@@ -10,7 +10,7 @@ to be updated
 
 | Modules                                       | Est. time of completion        |
 |-----------------------------------------------|----------------------------|
-| <a href="[https://coursera.org/share/069a7fabf809aa481ac5f3f9423582aa](https://www.securityblue.team/courses/blue-team-junior-analyst-pathway-bundle)">Blue Team Junior Analyst          |     5 Days|
+| <a href="https://www.securityblue.team/courses/blue-team-junior-analyst-pathway-bundle">Blue Team Junior Analyst          |     5 Days|
 
 ## Tools 
 
