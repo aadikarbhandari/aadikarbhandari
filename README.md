@@ -6,11 +6,11 @@ I am currently transferring my projects to aadikar.com.np and building github pa
 
 to be updated
 
-## Google CyberSecurity
+## In Progress
 
-| Modules                                       | Verification Links         |
+| Modules                                       | Est. time of completion        |
 |-----------------------------------------------|----------------------------|
-| Foundations of Cybersecurity          | <a href="https://coursera.org/share/069a7fabf809aa481ac5f3f9423582aa">Click to Verify !</a>|
+| <a href="[https://coursera.org/share/069a7fabf809aa481ac5f3f9423582aa](https://www.securityblue.team/courses/blue-team-junior-analyst-pathway-bundle)">Blue Team Junior Analyst          |     5 Days|
 
 ## Tools 
 
