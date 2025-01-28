@@ -1,10 +1,8 @@
 # Hello, I'm Aadikar
 
-I am currently transferring my projects to aadikar.com.np and building github page.
 
-## Objective
 
-to be updated
+I am currently setting up my <a href=https://www.linkedin.com/in/aadikarbhandari/>LinkedIn</a> and transferring projects to my <a href=https://www.aadikar.com.np> website</a>.
 
 ## In Progress
 
