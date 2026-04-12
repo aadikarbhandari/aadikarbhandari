@@ -1,92 +1,89 @@
 # Hey, I'm Aadikar (Aadi)
 
-MSc Cyber Security student at the University of West London.  
-I build systems at hackathons, break them in CTFs, and lead a Cyber Security Society in between.
+MSc Cyber Security @ University of West London  
+Society President | CTF Player | Systems Builder  
+
+**I build systems that operate under real-world constraints.**
 
 ---
 
-## What I'm building
-
-### 🚁 RescueNet AI
+## 🚁 [RescueNet AI](https://github.com/aadikarbhandari/rescuenet-ai)
 AI-powered multi-agent drone coordination system for disaster response.
 
-- Real-time simulation of autonomous drone fleets
-- LLM-assisted mission dispatch with deterministic fallback logic
-- Live operational dashboard (fleet state, victims, missions, AI decisions)
-- End-to-end lifecycle: detection → triage → dispatch → recovery
+- Real-time autonomous drone fleet simulation  
+- LLM-assisted dispatch with deterministic fallback  
+- Live dashboard (fleet, victims, missions, AI decisions)  
+- End-to-end lifecycle: detection → triage → dispatch → recovery  
 
-Competing in **AR26 Agents & Robotics HackXelerator (Berlin, April 2026)**
+**AR26 HackXelerator — Berlin, April 2026**
 
 ---
 
-### 📚 TRACK — A Complete Manuscript of Human Knowledge
-A structured, exhaustive map of human knowledge.
+## 📚 [TRACK — Live Demo](https://aadikarbhandari.github.io/track/)  
+[Repository](https://github.com/aadikarbhandari/track)
 
-- ~1,400 standalone articles (14–20 million words)
-- Organised into **10 Tracks / 70 Nodes**
-- Covers everything from cosmology → civilisation → frontier science
-- Fully cross-linked, offline-readable HTML system (zero dependencies)
-- Generated via a custom Python engine using serverless LLM inference
+A structured map of human knowledge.
 
-Premise:  
+- ~1,400 articles (14–20M words)  
+- 10 Tracks / 70 Nodes  
+- From cosmology → civilisation → frontier science  
+- Fully cross-linked, offline HTML system  
+
 > Human knowledge is one connected structure — and it can be mapped.
 
 ---
 
-### 🏛️ Sarkar Digital (DTN)
-Secure-by-design e-government platform for Nepal.
+## 🏛️ [Sarkar Digital (DTN)](https://github.com/aadikarbhandari/DTN)
+Secure-by-design e-government platform.
 
-- Citizen registration, voting, public services, whistleblowing
-- Independent access control layers per module
-- Stack: Flask, SQLAlchemy, JWT, bcrypt
+- Citizen services, voting, whistleblowing  
+- Independent access control layers  
+- Flask, SQLAlchemy, JWT, bcrypt  
 
 **3rd Place — UWL ATAL Hackathon 2026**
 
 ---
 
-### 🤖 Thema — AI Learning Companion
-Full-stack AI learning system built at HackLondon.
+## 🤖 [Thema — AI Learning Companion](https://github.com/aadikarbhandari/Ai-Learning-Companion)
+Full-stack AI learning system.
 
-- Real-time conversational engine with voice + avatar
-- Persistent user learning model
-- Dynamic knowledge graph that evolves per session
-- Educator dashboard with live learner insights
-
-Solo build, end-to-end.
+- Voice + conversational engine  
+- Persistent learning model  
+- Dynamic knowledge graph  
+- Educator dashboard  
 
 ---
 
-## Hackathons
+## 🏆 Hackathons
 
 | Event | Project | Result |
 |---|---|---|
-| AR26 HackXelerator (KXSB) — London/Berlin 2026 | RescueNet AI | In progress |
+| AR26 HackXelerator (KXSB) | RescueNet AI | In progress |
 | UWL ATAL Hackathon 2026 | Sarkar Digital | 3rd Place |
-| HackLondon 2026 (King's College London) | Thema | Solo build |
-| HackLondon 2026 | Cup Stacking Competition | 1st Place |
+| HackLondon 2026 | Thema | Solo build |
+| HackLondon 2026 | Cup Stacking | 1st Place |
 
 ---
 
-## Currently
+## ⚡ Currently
 
-- Competing in CTFs (OverTheWire, picoCTF, HackThisSite, VulnHub, DVWA)
-- Preparing for **OSCP**
-- Running a **24-week practical cyber security programme** at UWL
-- Building RescueNet AI + TRACK
-
----
-
-## Stack
-
-- Security → Security Onion, SIEM, threat analysis, penetration testing
-- Networking → BGP, OSPF, EIGRP, IPv6, LAN/WAN
-- Dev → Python, Flask, SQLAlchemy, JWT, bcrypt, JavaScript
-- Systems → Linux (Arch, Mint, Ubuntu, 10+ yrs)
-
+- CTFs: OverTheWire, picoCTF, HackThisSite, VulnHub, DVWA  
+- Preparing for **OSCP**  
+- Running a 24-week cyber security programme at UWL  
+- Building RescueNet AI + TRACK  
 
 ---
 
-## Find me
+## 🧠 Stack
 
-- LinkedIn: https://linkedin.com/in/aadikarbhandari
-- Email:    aadikarofficial@gmail.com
+- **Security:** Security Onion, SIEM, threat analysis, pentesting  
+- **Networking:** BGP, OSPF, EIGRP, IPv6, LAN/WAN  
+- **Dev:** Python, Flask, SQLAlchemy, JWT, bcrypt, JavaScript  
+- **Systems:** Linux (Arch, Mint, Ubuntu, 10+ yrs)  
+
+---
+
+## 📫 Contact
+
+- LinkedIn: https://linkedin.com/in/aadikarbhandari  
+- Email: aadikarofficial@gmail.com
