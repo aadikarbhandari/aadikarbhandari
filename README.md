@@ -6,6 +6,7 @@ Society President | CTF Player | Systems Builder
 **I build systems that operate under real-world constraints.**
 
 ---
+for safety reasons, I have changed visibility of most projects here to Private.
 
 ## 🚁 [RescueNet AI](https://github.com/aadikarbhandari/rescuenet-ai)
 AI-powered multi-agent drone coordination system for disaster response.
