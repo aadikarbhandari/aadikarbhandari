@@ -6,7 +6,9 @@ Society President | CTF Player | Systems Builder
 **I build systems that operate under real-world constraints.**
 
 ---
-for safety reasons, I have changed visibility of most projects here to Private.
+for safety reasons (of track and DTN), I have changed visibility of most projects here to Private.
+
+Just mail me, or meet me in person to get access, for whatever reasons. 
 
 ## 🚁 [RescueNet AI](https://github.com/aadikarbhandari/rescuenet-ai)
 AI-powered multi-agent drone coordination system for disaster response.
@@ -24,9 +26,10 @@ AI-powered multi-agent drone coordination system for disaster response.
 [Repository](https://github.com/aadikarbhandari/track)
 
 A structured map of human knowledge.
+v2 done, v3 -t3/6 generation ongoing
 
-- ~1,400 articles (14–20M words)  
-- 10 Tracks / 70 Nodes  
+- ~8,204 articles (58M words)  
+- 10 Tracks / 70 Nodes
 - From cosmology → civilisation → frontier science  
 - Fully cross-linked, offline HTML system  
 
@@ -37,7 +40,9 @@ A structured map of human knowledge.
 ## 🏛️ [Sarkar Digital (DTN)](https://github.com/aadikarbhandari/DTN)
 Secure-by-design e-government platform.
 
-- Citizen services, voting, whistleblowing  
+Expanding security to PQC and moving from MVP to full extent
+
+- Citizen services, voting, whistleblowing 
 - Independent access control layers  
 - Flask, SQLAlchemy, JWT, bcrypt  
 
